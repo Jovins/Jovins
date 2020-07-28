@@ -11,8 +11,6 @@
 </a>
 
 <br />
-<br />
-
 ### Languages and Tools:
 
 <code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsswift.png"></code>
@@ -22,7 +20,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsgit.png"></code>   
 
 <br />
-
 Hi, I'm Jovins Wong, a passionate self-taught swift developer from China.
 
 - 🔭 I’m currently working on my project [灵感](https://apps.apple.com/cn/app/id1478843357),The last one was [Carben](https://apps.apple.com/cn/app/id1177925868).
@@ -31,7 +28,6 @@ Hi, I'm Jovins Wong, a passionate self-taught swift developer from China.
 - 💬 Ask me about anything [here](https://github.com/Jovins/Jovins/issues).
 
 <br />
-
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
