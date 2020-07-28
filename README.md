@@ -1,7 +1,7 @@
 ### Hi there, I'm Jovins 👋
 
 <a href="http://jovins.cn/">
-  <img align="left" alt="Jovins Wong | Blog" width="32px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsblog.svg" />
+  <img align="left" alt="Jovins Wong | Blog" width="22px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsblog.png" />
 </a>
 <a href="https://apps.apple.com/cn/app/id1177925868">
   <img align="left" alt="AJovins Wong | Fideo" width="22px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinscarben.png" />
