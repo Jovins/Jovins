@@ -3,9 +3,6 @@
 <a href="http://jovins.cn/">
   <img align="left" alt="Jovins Wong | Blog" width="28px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsblog.svg" />
 </a>
-<a href="https://weibo.com/u/1771178784/">
-  <img align="left" alt="Jovins Wong | Weibo" width="28px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinssina.svg" />
-</a>
 <a href="https://apps.apple.com/cn/app/id1177925868">
   <img align="left" alt="AJovins Wong | Fideo" width="24px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinscarben.png" />
 </a>
