@@ -14,10 +14,12 @@
 <br />
 Hi, I'm Jovins Wong, a passionate self-taught swift developer from China.
 
-- 🔭 I’m currently working on my project [灵感](https://apps.apple.com/cn/app/id1478843357),The last one was [Carben](https://apps.apple.com/cn/app/id1177925868)
-- 🌱 I’m currently learning SwiftUI & Python
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/Jovins/Jovins/issues)
+- 🔭 I’m currently working on my project [灵感](https://apps.apple.com/cn/app/id1478843357),The last one was [Carben](https://apps.apple.com/cn/app/id1177925868).
+- 🌱 I’m currently learning SwiftUI & Python.
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+- 💬 Ask me about anything [here](https://github.com/Jovins/Jovins/issues).
+
+**Languages and Tools:**  
 
 
 <!--
