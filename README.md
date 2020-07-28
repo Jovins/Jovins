@@ -1,13 +1,13 @@
 ### Hi there, I'm Jovins 👋
 
 <a href="http://jovins.cn/">
-  <img align="left" alt="Jovins Wong | Blog" width="28px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsblog.svg" />
+  <img align="left" alt="Jovins Wong | Blog" width="32px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsblog.svg" />
 </a>
 <a href="https://apps.apple.com/cn/app/id1177925868">
-  <img align="left" alt="AJovins Wong | Fideo" width="24px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinscarben.png" />
+  <img align="left" alt="AJovins Wong | Fideo" width="22px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinscarben.png" />
 </a>
 <a href="https://apps.apple.com/cn/app/id1478843357">
-  <img align="left" alt="Jovins Wong | Fideo" width="24px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsfideo.png" />
+  <img align="left" alt="Jovins Wong | Fideo" width="22px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsfideo.png" />
 </a>
 
 <br />
