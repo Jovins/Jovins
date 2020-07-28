@@ -21,6 +21,11 @@ Hi, I'm Jovins Wong, a passionate self-taught swift developer from China.
 
 **Languages and Tools:**  
 
+<code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsswift.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsswiftui.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsobjective.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsxcode.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsgit.png"></code>   
 
 <!--
 **Jovins/Jovins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
