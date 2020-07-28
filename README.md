@@ -27,6 +27,12 @@ Hi, I'm Jovins Wong, a passionate self-taught swift developer from China.
 <code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsxcode.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsgit.png"></code>   
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+
 <!--
 **Jovins/Jovins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
