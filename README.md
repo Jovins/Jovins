@@ -15,11 +15,7 @@
 #### Hi, I'm Jovins Wong, a passionate self-taught swift developer.
 
 - 🔭 I’m currently working on my project [灵感](https://apps.apple.com/cn/app/id1478843357),The last one was [Carben](https://apps.apple.com/cn/app/id1177925868).
-- 🌱 I’m currently learning SwiftUI & Python.
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-- 💬 Ask me about anything [here](https://github.com/Jovins/Jovins/issues).
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+- 🌱 I’m currently using Swift & SwiftUI.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
