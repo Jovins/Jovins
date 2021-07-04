@@ -9,9 +9,9 @@
 
 <br />
 
-#### Hi, I'm Jovins Wong, a passionate self-taught swift developer.
+#### Hi, I'm Jovins Wong, a passionate self-taught Swift Developer.
 
-- 🔭 I’m currently working on my project [Carben](https://apps.apple.com/cn/app/id1177925868).
+- 🔭 I’m currently working on my project [CARBEN车本](https://apps.apple.com/cn/app/id1177925868).
 - 🌱 I’m currently using Swift and learning SwiftUI.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
