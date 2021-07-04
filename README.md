@@ -12,7 +12,7 @@
 #### I'm [Jovins](https://jovins.cn/), a passionate self-taught Swift Developer.
 
 - 🔭 I’m currently working on my project [CARBEN车本](https://apps.apple.com/cn/app/id1177925868).
-- 🌱 I’m currently using Swift and learning SwiftUI.
+- 🌱 I’m currently using Swift and learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
