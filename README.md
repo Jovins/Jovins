@@ -12,7 +12,7 @@
 #### Hi, I'm Jovins Wong, a passionate self-taught swift developer.
 
 - 🔭 I’m currently working on my project [Carben](https://apps.apple.com/cn/app/id1177925868).
-- 🌱 I’m currently using Swift & SwiftUI.
+- 🌱 I’m currently using Swift and learning SwiftUI.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
