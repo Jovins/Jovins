@@ -13,7 +13,7 @@
 <!--
 - 🔭 I’m currently working on my project [CARBEN](https://apps.apple.com/cn/app/id1177925868).
 -->
-- 🔭 I’m currently working on The Knot Worldwide.
+- 🔭 I’m currently working on The Knot WorldWide.
 - 🌱 I’m currently using Swift and learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
