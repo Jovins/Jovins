@@ -1,19 +1,8 @@
 ### Hi there 👋
-<!--
-<a href="http://jovins.cn/">
-  <img align="left" alt="Jovins Wong | Blog" width="22px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinsblog.png" />
-</a>
-<a href="https://apps.apple.com/cn/app/id1177925868">
-  <img align="left" alt="AJovins Wong | Carben" width="22px" src="https://raw.githubusercontent.com/jovins/jovins/master/assets/jovinscarben.png" />
-</a>
+![Jovins's Badge](https://visitor-badge.glitch.me/badge?page_id=jovins.jovins&left_color=purple&right_color=purple)
 
-<br />
--->
 #### I'm [Jovins](https://jovins.cn/), a passionate self-taught Swift Developer.
-<!--
-- 🔭 I’m currently working on my project [CARBEN](https://apps.apple.com/cn/app/id1177925868).
--->
-- 🔭 I’m currently working on The Knot WorldWide.
+- 🔭 I’m currently working on the Knot WorldWide.
 - 🌱 I’m currently using Swift and learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
