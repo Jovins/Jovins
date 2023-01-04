@@ -30,7 +30,7 @@
 <h3>Find me on</h3>
 <p>
 <a href="mailto:jovinscoder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=violet" /></a>
-<a href="https://www.jovins.cn"><img alt="Blog" src="https://img.shields.io/badge/Jovins Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
+<a href="https://www.jovins.cn"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
 </p>
 
 
