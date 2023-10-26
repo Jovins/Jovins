@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Jovins's Badge](https://visitor-badge.glitch.me/badge?page_id=jovins.jovins&left_color=purple&right_color=indigo)
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading">
 
 <p>I'm Jovins Huang, a mobile developer currently living in GuangZhou and welcome to my Github Profile! I like to build cool stuff and solve intereting problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. </p>
 
@@ -30,7 +32,7 @@
 <h3>Find me on</h3>
 <p>
 <a href="mailto:jovinscoder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=violet" /></a>
-<a href="https://www.jovins.cn"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
+<a href="https://www.jinwen.me"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
 </p>
 
 
