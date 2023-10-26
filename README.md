@@ -3,6 +3,8 @@
 <h3>Visitors Count</h3>
 <img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading"/>
 
+<br />
+
 <p>I'm Jovins Huang, a mobile developer currently living in GuangZhou and welcome to my Github Profile! I like to build cool stuff and solve intereting problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. </p>
 
 <img align="right" height="300" width="400" style="width: 400px; height: 300px; object-fit: cover;" alt="GIF" src="https://user-images.githubusercontent.com/47995046/166671418-1e5f0125-81eb-4f45-bd5c-f152af03697b.gif" />
