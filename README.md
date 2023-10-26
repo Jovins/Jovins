@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<h3>Visitors Count</h3>
-<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading"/>
-
-<br />
-
 <p>I'm Jovins Huang, a mobile developer currently living in GuangZhou and welcome to my Github Profile! I like to build cool stuff and solve intereting problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. </p>
 
 <img align="right" height="300" width="400" style="width: 400px; height: 300px; object-fit: cover;" alt="GIF" src="https://user-images.githubusercontent.com/47995046/166671418-1e5f0125-81eb-4f45-bd5c-f152af03697b.gif" />
@@ -37,6 +32,8 @@
 <a href="https://www.jinwen.me"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
 </p>
 
+<h3>Visitors Count</h3>
+<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
