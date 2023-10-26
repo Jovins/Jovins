@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading">
+<h3>Visitors Count</h3>
+<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading"/>
 
 <p>I'm Jovins Huang, a mobile developer currently living in GuangZhou and welcome to my Github Profile! I like to build cool stuff and solve intereting problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. </p>
 
