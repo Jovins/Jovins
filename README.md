@@ -32,12 +32,8 @@
 <a href="https://www.jinwen.me"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
 </p>
 
-<h3>Visitors Count</h3>
-<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading"/>
-
-<br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></a>
 
+<h3>Visitors count</h3>
+<img align="left" src = "https://profile-counter.glitch.me/Jovins/count.svg" alt ="Loading"/>
