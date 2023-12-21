@@ -12,29 +12,30 @@
   <li>🌟 Fields I like the most: AR 🖥 and Mobile📱</li>
   <li>⛳ I always excited to learn new things.</li>
 </ul>
-
 <h3>Some tools I use</h3>
 <p>
-<img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=violet" /> 
-<img alt="swift" src="https://img.shields.io/badge/-Swift-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
+<img alt="Git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=violet" /> 
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
 <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
+<img alt="Objective-C" src="https://img.shields.io/badge/-ObjectiveC-1a1a1a?style=flat-square&logo=c&logoColor=violet" /> 
 <img alt="ARKit" src="https://img.shields.io/badge/-ARKit-1a1a1a?style=flat-square&logo=react&logoColor=violet" /> 
 <img alt="Texture" src="https://img.shields.io/badge/-Texture-1a1a1a?style=flat-square&logo=typescript&logoColor=violet" /> 
-<img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=violet" /> 
 <img alt="Golang" src="https://img.shields.io/badge/-Go-1a1a1a?style=flat-square&logo=go&logoColor=violet" /> 
 <img alt="Realm" src="https://img.shields.io/badge/-Realm-1a1a1a?style=flat-square&logo=realm&logoColor=violet" /> 
 <img alt="fastlane" src="https://img.shields.io/badge/-Fastlane-1a1a1a?style=flat-square&logo=fastlane&logoColor=violet" /> 
 </p>
+
 
 <h3>Find me on</h3>
 <p>
 <a href="mailto:jovinscoder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=violet" /></a>
 <a href="https://www.jinwen.me"><img alt="Blog" src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=violet" /></a>
 </p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jovins&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></a>
 
 <h3>Magic Number</h3>
 
 ![Visitor](https://count.getloli.com/get/@Jovins?theme=gelbooru)
+
