@@ -8,7 +8,7 @@
 <ul>
   <li>💻 Currently working on the Knot WorldWide.</li>
   <li>📖 Currently learning SwiftUI、ARKit and Flutter.</li>
-  <li>📙 Focusing on Swift & Flutter.</li>
+  <li>📙 Focusing on Swift/SwiftUI & Flutter.</li>
   <li>⛳ I always excited to learn new things.</li>
 </ul>
 <h3>Some tools I use</h3>
