@@ -13,12 +13,10 @@
 </ul>
 <h3>Some tools I use</h3>
 <p>
-<img alt="Git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=violet" /> 
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
 <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1a1a1a?style=flat-square&logo=swift&logoColor=violet" /> 
 <img alt="Objective-C" src="https://img.shields.io/badge/-ObjectiveC-1a1a1a?style=flat-square&logo=c&logoColor=violet" /> 
-<img alt="ARKit" src="https://img.shields.io/badge/-ARKit-1a1a1a?style=flat-square&logo=react&logoColor=violet" /> 
 <img alt="Texture" src="https://img.shields.io/badge/-Texture-1a1a1a?style=flat-square&logo=typescript&logoColor=violet" /> 
 <img alt="Golang" src="https://img.shields.io/badge/-Go-1a1a1a?style=flat-square&logo=go&logoColor=violet" /> 
 <img alt="Realm" src="https://img.shields.io/badge/-Realm-1a1a1a?style=flat-square&logo=realm&logoColor=violet" /> 
