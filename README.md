@@ -36,3 +36,7 @@
 
 ![Visitor](https://count.getloli.com/get/@Jovins?theme=gelbooru)
 
+<h3>📈 GitHub Activity Graph:</h3>
+
+![Jovins's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
